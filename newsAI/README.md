@@ -1,0 +1,1 @@
+Possible cron job for scraping news of a topic, sent every morning etc as a text.

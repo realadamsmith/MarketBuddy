@@ -10,14 +10,7 @@ password: password
 To run
 ###
 
-==
-"Just for me"
-C:/Users/caspi/anaconda3/Scripts/activate
-==
-
-conda activate venv (Tensor1)
 pip install -r requirements.txt
-python jarvisTabs.py
 
 Building with tkinter 
 

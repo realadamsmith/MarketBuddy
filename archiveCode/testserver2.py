@@ -3,12 +3,12 @@ import openai
 from flask import Flask, request, redirect
 
 # Set up your Twilio account credentials
-account_sid = 'AC7deedfa313b867076cbac2e8646aae3c'
-auth_token = 'c6d5c431a1a98b52b8cdcddcfd533432'
+account_sid = ''
+auth_token = ''
 client = Client(account_sid, auth_token)
 
 # Set up your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'sk-'
 
 # Set up a listener to receive incoming messages from Twilio
 app = Flask(__name__)
